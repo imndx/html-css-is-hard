@@ -1,0 +1,37 @@
+body {
+    color: #ff0000;
+    background-color: #eeeeee;
+    font-size: 18px;
+}
+
+h1 {
+    /* font-size: 36px; */
+    font-size: 2em;
+}
+
+h2 {
+    /* font-size: 28px; */
+    font-size: 1.6em;
+}
+
+h1,
+h2 {
+    font-family: "Helvetica", sans-serif;
+    font-weight: normal;
+}
+
+ul {
+    list-style: circle;
+}
+
+ol {
+    list-style: lower-roman;
+}
+
+a {
+    text-decoration: none;
+}
+
+p{
+    text-align: left;
+}
