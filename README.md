@@ -1,1 +1,1 @@
-please refer to [html-and-css](https://www.internetingishard.com/html-and-css/css-box-model/)
+code for [HTML & CSS IS HARD](https://www.internetingishard.com)
