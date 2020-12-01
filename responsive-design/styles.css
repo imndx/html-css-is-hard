@@ -17,6 +17,28 @@
     align-items: center;
 }
 
+.header{
+    height: auto;
+    justify-content: inherit;
+    align-items: inherit;
+}
+
+.photo img{
+    width: 100%;
+    display: block;
+}
+
+.illustration{
+    width: 100%;
+}
+
+.illustration img{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+
 .menu {
     background-color: #5995da;
 }
